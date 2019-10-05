@@ -1,2 +1,2 @@
 # Buzzer
-&copy Rajeev Atla 2019
+#&copy Rajeev Atla 2019
